@@ -1,23 +1,21 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xml:space="preserve"
-   enable-background="new 0 0 512 512"
-   viewBox="0 0 512 512"
-   height="512px"
-   width="512px"
-   y="0px"
-   x="0px"
-   id="NexT"
-   version="1.1"><metadata
-     id="metadata3390"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
-     id="defs3388" /><path
-     style="fill:#222222;fill-opacity:1"
-     id="path3384"
-     d="M 256.4,25.8 56.4,141.3 56,371.5 255.6,486.2 455.6,370.7 456,140.5 Z m 92.6,328.8 -18.4,10.7 -18.6,-11 0,0 -112,-142.3 0,142.6 -18.4,10.7 -18.6,-11 0,-197 18.5,-10.6 18.5,10.8 0,0 112,144.5 0,-144.6 18.5,-10.6 18.5,10.8 z" /></svg>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="192.000000pt" height="192.000000pt" viewBox="0 0 192.000000 192.000000"
+ preserveAspectRatio="xMidYMid meet">
+
+<g transform="translate(0.000000,192.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M905 1906 c-16 -8 -120 -105 -230 -215 l-200 -202 30 -21 c17 -11
+121 -113 231 -225 111 -113 206 -204 213 -202 6 2 105 97 219 210 114 113 220
+215 236 228 l30 22 -195 195 c-225 227 -255 246 -334 210z"/>
+<path d="M1464 1267 c-62 -45 -169 -122 -239 -171 -75 -53 -131 -100 -136
+-114 -16 -42 -32 -274 -25 -380 9 -149 -18 -187 -139 -199 -50 -5 -54 -4 -71
+23 -17 26 -19 49 -16 279 l3 251 -53 50 c-29 27 -98 81 -153 119 -55 38 -147
+102 -204 143 l-103 75 -154 -154 c-163 -162 -181 -191 -169 -257 6 -32 64 -94
+443 -474 309 -310 446 -441 470 -449 80 -26 71 -33 544 439 310 309 441 446
+449 470 24 72 10 94 -164 270 -89 89 -164 162 -167 162 -3 -1 -55 -38 -116
+-83z"/>
+</g>
+</svg>
